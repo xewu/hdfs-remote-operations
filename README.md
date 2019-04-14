@@ -1,7 +1,3 @@
-(module Lib)
+local machine remote control hdfs
 
-Java Operations with HDFS
-
-Java run command line
-
-Python login to remote machine, run command line.
+single file processing
